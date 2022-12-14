@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://dyzermc.net"><img src="../assets/logo.png" /></a>
+<a href="https://dyzermc.net"><img src="./assets/logo.png" /></a>
 </div>
 
 - 🌐 &nbsp; Acesse o nosso [site](https://dyzermc.net)<br/>
